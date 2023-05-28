@@ -1,0 +1,160 @@
+Frame loaded - 417:Каскад
+Frame loaded - 343:Рама
+Frame loaded - 394:Творец
+Frame loaded - 880:Шалопай
+Frame loaded - 328:Мерзавец
+Frame loaded - 90:Кучерявый змей
+Frame loaded - 817:Травяной игрец
+Frame loaded - 545:Желтый прыгунец
+Frame loaded - 181:Мармелад
+Frame loaded - 611:Престиж
+Frame loaded - 834:Каскад
+Frame loaded - 311:Рама
+Frame loaded - 717:Творец
+Frame loaded - 752:Шалопай
+Frame loaded - 494:Мерзавец
+Frame loaded - 466:Кучерявый змей
+Frame loaded - 971:Травяной игрец
+Frame loaded - 184:Желтый прыгунец
+Frame loaded - 758:Мармелад
+Frame loaded - 811:Престиж
+Frame loaded - 218:Каскад
+Frame loaded - 149:Рама
+Frame loaded - 206:Творец
+Frame loaded - 589:Шалопай
+Frame loaded - 161:Мерзавец
+Frame loaded - 820:Кучерявый змей
+Frame loaded - 811:Травяной игрец
+Frame loaded - 217:Желтый прыгунец
+Frame loaded - 757:Мармелад
+Frame loaded - 985:Престиж
+Frame loaded - 622:Каскад
+Frame loaded - 335:Рама
+Frame loaded - 431:Творец
+default_frames.csv successfully parsed. Got 34 items
+default_frames.csv data serialized to frames.dat
+Frame loaded - 602:Каскад
+Frame loaded - 961:Рама
+Frame loaded - 966:Творец
+Frame loaded - 44:Шалопай
+Frame loaded - 342:Мерзавец
+Frame loaded - 222:Кучерявый змей
+Frame loaded - 601:Травяной игрец
+Frame loaded - 119:Желтый прыгунец
+Frame loaded - 380:Мармелад
+Frame loaded - 993:Престиж
+Frame loaded - 814:Каскад
+Frame loaded - 748:Рама
+Frame loaded - 953:Творец
+Frame loaded - 36:Шалопай
+Frame loaded - 595:Мерзавец
+Frame loaded - 304:Кучерявый змей
+Frame loaded - 555:Травяной игрец
+Frame loaded - 230:Желтый прыгунец
+Frame loaded - 791:Мармелад
+Frame loaded - 334:Престиж
+Frame loaded - 274:Каскад
+Frame loaded - 437:Рама
+Frame loaded - 310:Творец
+Frame loaded - 950:Шалопай
+Frame loaded - 673:Мерзавец
+Frame loaded - 538:Кучерявый змей
+Frame loaded - 967:Травяной игрец
+Frame loaded - 607:Желтый прыгунец
+Frame loaded - 232:Мармелад
+Frame loaded - 223:Престиж
+Frame loaded - 562:Каскад
+Frame loaded - 907:Рама
+Frame loaded - 291:Творец
+Frame loaded - 38:Каскад
+Frame loaded - 950:Рама
+Frame loaded - 267:Творец
+Frame loaded - 72:Шалопай
+Frame loaded - 994:Мерзавец
+Frame loaded - 154:Кучерявый змей
+Frame loaded - 953:Травяной игрец
+Frame loaded - 657:Желтый прыгунец
+Frame loaded - 794:Мармелад
+digital_frames.csv successfully parsed. Got 43 items
+digital_frames.csv data serialized to frames.dat
+75 frames were serialized from frames.dat
+Frame loaded - 417:Каскад
+Frame loaded - 343:Рама
+Frame loaded - 394:Творец
+Frame loaded - 880:Шалопай
+Frame loaded - 328:Мерзавец
+Frame loaded - 90:Кучерявый змей
+Frame loaded - 817:Травяной игрец
+Frame loaded - 545:Желтый прыгунец
+Frame loaded - 181:Мармелад
+Frame loaded - 611:Престиж
+Frame loaded - 834:Каскад
+Frame loaded - 311:Рама
+Frame loaded - 717:Творец
+Frame loaded - 752:Шалопай
+Frame loaded - 494:Мерзавец
+Frame loaded - 466:Кучерявый змей
+Frame loaded - 971:Травяной игрец
+Frame loaded - 184:Желтый прыгунец
+Frame loaded - 758:Мармелад
+Frame loaded - 811:Престиж
+Frame loaded - 218:Каскад
+Frame loaded - 149:Рама
+Frame loaded - 206:Творец
+Frame loaded - 589:Шалопай
+Frame loaded - 161:Мерзавец
+Frame loaded - 820:Кучерявый змей
+Frame loaded - 811:Травяной игрец
+Frame loaded - 217:Желтый прыгунец
+Frame loaded - 757:Мармелад
+Frame loaded - 985:Престиж
+Frame loaded - 622:Каскад
+Frame loaded - 335:Рама
+Frame loaded - 431:Творец
+default_frames.csv successfully parsed. Got 34 items
+default_frames.csv data serialized to frames.dat
+Frame loaded - 602:Каскад
+Frame loaded - 961:Рама
+Frame loaded - 966:Творец
+Frame loaded - 44:Шалопай
+Frame loaded - 342:Мерзавец
+Frame loaded - 222:Кучерявый змей
+Frame loaded - 601:Травяной игрец
+Frame loaded - 119:Желтый прыгунец
+Frame loaded - 380:Мармелад
+Frame loaded - 993:Престиж
+Frame loaded - 814:Каскад
+Frame loaded - 748:Рама
+Frame loaded - 953:Творец
+Frame loaded - 36:Шалопай
+Frame loaded - 595:Мерзавец
+Frame loaded - 304:Кучерявый змей
+Frame loaded - 555:Травяной игрец
+Frame loaded - 230:Желтый прыгунец
+Frame loaded - 791:Мармелад
+Frame loaded - 334:Престиж
+Frame loaded - 274:Каскад
+Frame loaded - 437:Рама
+Frame loaded - 310:Творец
+Frame loaded - 950:Шалопай
+Frame loaded - 673:Мерзавец
+Frame loaded - 538:Кучерявый змей
+Frame loaded - 967:Травяной игрец
+Frame loaded - 607:Желтый прыгунец
+Frame loaded - 232:Мармелад
+Frame loaded - 223:Престиж
+Frame loaded - 562:Каскад
+Frame loaded - 907:Рама
+Frame loaded - 291:Творец
+Frame loaded - 38:Каскад
+Frame loaded - 950:Рама
+Frame loaded - 267:Творец
+Frame loaded - 72:Шалопай
+Frame loaded - 994:Мерзавец
+Frame loaded - 154:Кучерявый змей
+Frame loaded - 953:Травяной игрец
+Frame loaded - 657:Желтый прыгунец
+Frame loaded - 794:Мармелад
+digital_frames.csv successfully parsed. Got 43 items
+digital_frames.csv data serialized to frames.dat
+75 frames were serialized from frames.dat

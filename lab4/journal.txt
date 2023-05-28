@@ -1,0 +1,912 @@
+Object loaded   1ООО "Рамки и Экраны"Полесье, ул. Колхозная, д. 2"
+Object loaded   2ИП Несмотри В. З.Замоскворечье, ул. Неизвестная, д. 404"
+Object loaded   3ОАО "Как же хорошо"Счастье, ул. Веселая, д. 37"
+vendors.csv successfully parsed. Got 4 items
+Object loaded   1933054, Курская область, город Можайск, наб. Славы, 05
+Object loaded   2261530, Иркутская область, город Люберцы, шоссе Сталина, 96
+Object loaded   3194703, Белгородская область, город Наро-Фоминск, въезд Космонавтов, 36
+Object loaded   4261015, Волгоградская область, город Коломна, бульвар Ленина, 54
+Object loaded   5283475, Владимирская область, город Егорьевск, пер. Ленина, 80
+Object loaded   6207578, Курганская область, город Луховицы, въезд Будапештсткая, 58
+Object loaded   7474700, Архангельская область, город Сергиев Посад, наб. Гагарина, 97
+Object loaded   8812556, Тюменская область, город Талдом, шоссе Ломоносова, 39
+storages.csv successfully parsed. Got 9 items
+Object loaded 6704691280x720 Samsung 686652,00 0,0
+Object loaded  694391280x720    Sony 962231,00 0,0
+Object loaded 3558041920x1080    Sony 502012,00 0,0
+Object loaded 1643901920x1080      HP 967303,00 0,0
+Object loaded 6897421920x1080 Samsung  23547,00 0,0
+Object loaded 5346781280x720Panasonic 934741,00 0,0
+Object loaded 8949271920x1080Panasonic 345908,00 0,0
+Object loaded 9104301280x720 Samsung 534481,00 0,0
+Object loaded  461411920x1080    Sony 152363,00 0,0
+Object loaded 2167141920x1080    Sony 164509,00 0,0
+Object loaded  618181280x720Panasonic 384573,00 0,0
+Object loaded 2313401920x1080 Samsung 851939,00 0,0
+Object loaded 4252721920x1080    Sony 404081,00 0,0
+Object loaded 6171101280x720    Sony 791807,00 0,0
+Object loaded 2833831280x720Panasonic 309885,00 0,0
+Object loaded 1537991280x720 Samsung 541562,00 0,0
+Object loaded 8052921280x720    Sony 758390,00 0,0
+Object loaded 5499881920x1080    Sony 250866,00 0,0
+Object loaded 3019061920x1081Panasonic 854778,00 0,0
+Object loaded  795571920x1080 Samsung 903472,00 0,0
+Object loaded  435911280x720    Sony 747140,00 0,0
+Object loaded 5921231280x720    Sony 767105,00 0,0
+Object loaded 1057921280x720    Sony 315600,00 0,0
+Object loaded 1489271280x720    Sony 398288,00 0,0
+Object loaded  113711280x720      HP 679607,00 0,0
+Object loaded 6718141280x720 Samsung 977290,00 0,0
+Object loaded 7182181280x720Panasonic  66759,00 0,0
+Object loaded 9272131280x720Panasonic 320138,00 0,0
+Object loaded 3680631280x720 Samsung 390007,00 0,0
+Object loaded 8418671920x1080    Sony 589204,00 0,0
+Object loaded 6177621920x1080    Sony 661321,00 0,0
+Object loaded 3329351920x1081      HP 158882,00 0,0
+Object loaded 7208731280x720 Samsung 285474,00 0,0
+Object loaded 3806181280x720Panasonic 221569,00 0,0
+Object loaded 4215541280x720Panasonic 697243,00 0,0
+Object loaded 1534671920x1080 Samsung 485612,00 0,0
+Object loaded 2242631920x1080 Samsung 243164,00 0,0
+Object loaded 3698561920x1080    Sony 863145,00 0,0
+Object loaded 4741391280x721    Sony 245032,00 0,0
+Object loaded 3266911280x721      HP 257394,00 0,0
+Object loaded 6400591920x1080 Samsung 313218,00 0,0
+Object loaded 8095941920x1080Panasonic 291935,00 0,0
+Object loaded 1542501920x1080Panasonic 648943,00 0,0
+Object loaded 4065601280x722 Samsung 305646,00 0,0
+Object loaded 5009001280x722 Samsung 725076,00 0,0
+Object loaded 1470461920x1080    Sony 491382,00 0,0
+Object loaded  368221920x1080    Sony 660234,00 0,0
+Object loaded 2759571920x1080      HP  52239,00 0,0
+Object loaded 2980801280x723Panasonic  23044,00 0,0
+Object loaded 8207941280x723 Samsung 805281,00 0,0
+Object loaded 5290641920x1080    Sony 362672,00 0,0
+Object loaded 2219711920x1080    Sony 658676,00 0,0
+Object loaded 5494161920x1080      HP 258063,00 0,0
+Object loaded  510001280x720 Samsung  96898,00 0,0
+Object loaded 2370951280x720    Sony 792174,00 0,0
+Object loaded 9467631920x1080    Sony 446188,00 0,0
+Object loaded 1935631920x1080      HP 741335,00 0,0
+Object loaded 6426811920x1080 Samsung  70442,00 0,0
+Object loaded 1135741280x721Panasonic 439426,00 0,0
+Object loaded 9514301920x1081Panasonic 803676,00 0,0
+Object loaded   43091280x721 Samsung 346870,00 0,0
+Object loaded  114031920x1080    Sony 509593,00 0,0
+Object loaded 3869821920x1080    Sony 556413,00 0,0
+Object loaded    7571280x721Panasonic 935728,00 0,0
+Object loaded 6216691920x1080 Samsung 744020,00 0,0
+Object loaded 9894341920x1080    Sony 563285,00 0,0
+Object loaded 3796291280x720    Sony 949964,00 0,0
+Object loaded  535701280x720Panasonic 369820,00 0,0
+Object loaded 3561881280x720 Samsung 852726,00 0,0
+Object loaded 2252271280x720 Samsung 795254,00 0,0
+Object loaded 5841761280x720    Sony 662330,00 0,0
+Object loaded 1263371920x1080    Sony 771387,00 0,0
+Object loaded 1386681920x1080      HP 133412,00 0,0
+Object loaded 1502871920x1080 Samsung 206776,00 0,0
+Object loaded 7873901280x720Panasonic 126322,00 0,0
+Object loaded  469821920x1080Panasonic 189810,00 0,0
+Object loaded 8596221280x720 Samsung 192540,00 0,0
+Object loaded 5548141920x1080    Sony 222414,00 0,0
+Object loaded 6050651920x1080    Sony 203212,00 0,0
+Object loaded 9513411280x720Panasonic 974836,00 0,0
+Object loaded 8710591920x1080 Samsung 496780,00 0,0
+Object loaded 7871791920x1080    Sony 810986,00 0,0
+Object loaded 5234711280x720    Sony  19989,00 0,0
+Object loaded 6764771280x720Panasonic  48000,00 0,0
+Object loaded 6077891280x720 Samsung 634859,00 0,0
+Object loaded 4721621280x720    Sony 305575,00 0,0
+Object loaded 4303871920x1080    Sony 816701,00 0,0
+Object loaded 9130651920x1081Panasonic 471825,00 0,0
+Object loaded 1262561920x1080 Samsung 605494,00 0,0
+Object loaded 4289981280x720    Sony 896191,00 0,0
+Object loaded 6627401280x720    Sony 813826,00 0,0
+Object loaded  933151280x720    Sony 323608,00 0,0
+Object loaded 8559641280x720    Sony 890125,00 0,0
+Object loaded 1626981280x720      HP 965183,00 0,0
+Object loaded 7980421280x720 Samsung 890139,00 0,0
+Object loaded 5114091280x720Panasonic 922471,00 0,0
+Object loaded  118941280x720Panasonic 376083,00 0,0
+Object loaded 9007001280x720 Samsung 416640,00 0,0
+Object loaded 7732831920x1080    Sony 715882,00 0,0
+Object loaded 1002021920x1080    Sony 355149,00 0,0
+Object loaded 9258851920x1081      HP 715690,00 0,0
+Object loaded 6518181280x720 Samsung 992418,00 0,0
+Object loaded 4276061280x720Panasonic 681783,00 0,0
+Object loaded 6209121280x720Panasonic 913783,00 0,0
+Object loaded  207561920x1080 Samsung 901849,00 0,0
+Object loaded 1755881920x1080 Samsung 632725,00 0,0
+Object loaded 2340851920x1080    Sony 975251,00 0,0
+Object loaded 7618181280x721    Sony 233087,00 0,0
+Object loaded 2730191280x721      HP  43543,00 0,0
+Object loaded  674691920x1080 Samsung 128487,00 0,0
+Object loaded 8110541920x1080Panasonic  41063,00 0,0
+Object loaded 7874701920x1080Panasonic 859856,00 0,0
+Object loaded 7883821280x722 Samsung 350013,00 0,0
+Object loaded 3890251280x722 Samsung 555759,00 0,0
+Object loaded 7849451920x1080    Sony  40028,00 0,0
+Object loaded 9316721920x1080    Sony 679692,00 0,0
+Object loaded 5487571920x1080      HP 890536,00 0,0
+Object loaded 4020661280x723Panasonic 314555,00 0,0
+Object loaded 7142491280x723 Samsung 190345,00 0,0
+Object loaded 6855251920x1080    Sony 744248,00 0,0
+Object loaded 4803711920x1080    Sony 712444,00 0,0
+Object loaded   18711920x1080      HP 545377,00 0,0
+Object loaded  781641280x720 Samsung 512888,00 0,0
+Object loaded 4960571280x720    Sony 951978,00 0,0
+Object loaded 7395851920x1080    Sony 693437,00 0,0
+Object loaded 3870151920x1080      HP 221570,00 0,0
+Object loaded 7837131920x1080 Samsung 753217,00 0,0
+Object loaded 1614801280x721Panasonic 881652,00 0,0
+Object loaded 5164141920x1081Panasonic 650290,00 0,0
+Object loaded 3519131280x721 Samsung 889412,00 0,0
+Object loaded 2515291920x1080    Sony  19887,00 0,0
+Object loaded 3858831920x1080    Sony 635406,00 0,0
+Object loaded 7152411280x721Panasonic 204791,00 0,0
+Object loaded 3431291920x1080 Samsung  70468,00 0,0
+Object loaded 9032141920x1080    Sony 205557,00 0,0
+Object loaded 5391511280x720    Sony 362116,00 0,0
+Object loaded 5880951280x720Panasonic 154104,00 0,0
+Object loaded  815851280x720 Samsung 187355,00 0,0
+displays.csv successfully parsed. Got 139 items
+Object loaded   1ООО "Рамки и Экраны"Полесье, ул. Колхозная, д. 2"
+Object loaded   2ИП Несмотри В. З.Замоскворечье, ул. Неизвестная, д. 404"
+Object loaded   3ОАО "Как же хорошо"Счастье, ул. Веселая, д. 37"
+vendors.csv successfully parsed. Got 4 items
+Object loaded   1933054, Курская область, город Можайск, наб. Славы, 05
+Object loaded   2261530, Иркутская область, город Люберцы, шоссе Сталина, 96
+Object loaded   3194703, Белгородская область, город Наро-Фоминск, въезд Космонавтов, 36
+Object loaded   4261015, Волгоградская область, город Коломна, бульвар Ленина, 54
+Object loaded   5283475, Владимирская область, город Егорьевск, пер. Ленина, 80
+Object loaded   6207578, Курганская область, город Луховицы, въезд Будапештсткая, 58
+Object loaded   7474700, Архангельская область, город Сергиев Посад, наб. Гагарина, 97
+Object loaded   8812556, Тюменская область, город Талдом, шоссе Ломоносова, 39
+storages.csv successfully parsed. Got 9 items
+Object loaded   6704691280x720 Samsung 686652,00 0,0
+Object loaded    694391280x720    Sony 962231,00 0,0
+Object loaded   3558041920x1080    Sony 502012,00 0,0
+Object loaded   1643901920x1080      HP 967303,00 0,0
+Object loaded   6897421920x1080 Samsung  23547,00 0,0
+Object loaded   5346781280x720Panasonic 934741,00 0,0
+Object loaded   8949271920x1080Panasonic 345908,00 0,0
+Object loaded   9104301280x720 Samsung 534481,00 0,0
+Object loaded    461411920x1080    Sony 152363,00 0,0
+Object loaded   2167141920x1080    Sony 164509,00 0,0
+Object loaded    618181280x720Panasonic 384573,00 0,0
+Object loaded   2313401920x1080 Samsung 851939,00 0,0
+Object loaded   4252721920x1080    Sony 404081,00 0,0
+Object loaded   6171101280x720    Sony 791807,00 0,0
+Object loaded   2833831280x720Panasonic 309885,00 0,0
+Object loaded   1537991280x720 Samsung 541562,00 0,0
+Object loaded   8052921280x720    Sony 758390,00 0,0
+Object loaded   5499881920x1080    Sony 250866,00 0,0
+Object loaded   3019061920x1081Panasonic 854778,00 0,0
+Object loaded    795571920x1080 Samsung 903472,00 0,0
+Object loaded    435911280x720    Sony 747140,00 0,0
+Object loaded   5921231280x720    Sony 767105,00 0,0
+Object loaded   1057921280x720    Sony 315600,00 0,0
+Object loaded   1489271280x720    Sony 398288,00 0,0
+Object loaded    113711280x720      HP 679607,00 0,0
+Object loaded   6718141280x720 Samsung 977290,00 0,0
+Object loaded   7182181280x720Panasonic  66759,00 0,0
+Object loaded   9272131280x720Panasonic 320138,00 0,0
+Object loaded   3680631280x720 Samsung 390007,00 0,0
+Object loaded   8418671920x1080    Sony 589204,00 0,0
+Object loaded   6177621920x1080    Sony 661321,00 0,0
+Object loaded   3329351920x1081      HP 158882,00 0,0
+Object loaded   7208731280x720 Samsung 285474,00 0,0
+Object loaded   3806181280x720Panasonic 221569,00 0,0
+Object loaded   4215541280x720Panasonic 697243,00 0,0
+Object loaded   1534671920x1080 Samsung 485612,00 0,0
+Object loaded   2242631920x1080 Samsung 243164,00 0,0
+Object loaded   3698561920x1080    Sony 863145,00 0,0
+Object loaded   4741391280x721    Sony 245032,00 0,0
+Object loaded   3266911280x721      HP 257394,00 0,0
+Object loaded   6400591920x1080 Samsung 313218,00 0,0
+Object loaded   8095941920x1080Panasonic 291935,00 0,0
+Object loaded   1542501920x1080Panasonic 648943,00 0,0
+Object loaded   4065601280x722 Samsung 305646,00 0,0
+Object loaded   5009001280x722 Samsung 725076,00 0,0
+Object loaded   1470461920x1080    Sony 491382,00 0,0
+Object loaded    368221920x1080    Sony 660234,00 0,0
+Object loaded   2759571920x1080      HP  52239,00 0,0
+Object loaded   2980801280x723Panasonic  23044,00 0,0
+Object loaded   8207941280x723 Samsung 805281,00 0,0
+Object loaded   5290641920x1080    Sony 362672,00 0,0
+Object loaded   2219711920x1080    Sony 658676,00 0,0
+Object loaded   5494161920x1080      HP 258063,00 0,0
+Object loaded    510001280x720 Samsung  96898,00 0,0
+Object loaded   2370951280x720    Sony 792174,00 0,0
+Object loaded   9467631920x1080    Sony 446188,00 0,0
+Object loaded   1935631920x1080      HP 741335,00 0,0
+Object loaded   6426811920x1080 Samsung  70442,00 0,0
+Object loaded   1135741280x721Panasonic 439426,00 0,0
+Object loaded   9514301920x1081Panasonic 803676,00 0,0
+Object loaded     43091280x721 Samsung 346870,00 0,0
+Object loaded    114031920x1080    Sony 509593,00 0,0
+Object loaded   3869821920x1080    Sony 556413,00 0,0
+Object loaded      7571280x721Panasonic 935728,00 0,0
+Object loaded   6216691920x1080 Samsung 744020,00 0,0
+Object loaded   9894341920x1080    Sony 563285,00 0,0
+Object loaded   3796291280x720    Sony 949964,00 0,0
+Object loaded    535701280x720Panasonic 369820,00 0,0
+Object loaded   3561881280x720 Samsung 852726,00 0,0
+Object loaded   2252271280x720 Samsung 795254,00 0,0
+Object loaded   5841761280x720    Sony 662330,00 0,0
+Object loaded   1263371920x1080    Sony 771387,00 0,0
+Object loaded   1386681920x1080      HP 133412,00 0,0
+Object loaded   1502871920x1080 Samsung 206776,00 0,0
+Object loaded   7873901280x720Panasonic 126322,00 0,0
+Object loaded    469821920x1080Panasonic 189810,00 0,0
+Object loaded   8596221280x720 Samsung 192540,00 0,0
+Object loaded   5548141920x1080    Sony 222414,00 0,0
+Object loaded   6050651920x1080    Sony 203212,00 0,0
+Object loaded   9513411280x720Panasonic 974836,00 0,0
+Object loaded   8710591920x1080 Samsung 496780,00 0,0
+Object loaded   7871791920x1080    Sony 810986,00 0,0
+Object loaded   5234711280x720    Sony  19989,00 0,0
+Object loaded   6764771280x720Panasonic  48000,00 0,0
+Object loaded   6077891280x720 Samsung 634859,00 0,0
+Object loaded   4721621280x720    Sony 305575,00 0,0
+Object loaded   4303871920x1080    Sony 816701,00 0,0
+Object loaded   9130651920x1081Panasonic 471825,00 0,0
+Object loaded   1262561920x1080 Samsung 605494,00 0,0
+Object loaded   4289981280x720    Sony 896191,00 0,0
+Object loaded   6627401280x720    Sony 813826,00 0,0
+Object loaded    933151280x720    Sony 323608,00 0,0
+Object loaded   8559641280x720    Sony 890125,00 0,0
+Object loaded   1626981280x720      HP 965183,00 0,0
+Object loaded   7980421280x720 Samsung 890139,00 0,0
+Object loaded   5114091280x720Panasonic 922471,00 0,0
+Object loaded    118941280x720Panasonic 376083,00 0,0
+Object loaded   9007001280x720 Samsung 416640,00 0,0
+Object loaded   7732831920x1080    Sony 715882,00 0,0
+Object loaded   1002021920x1080    Sony 355149,00 0,0
+Object loaded   9258851920x1081      HP 715690,00 0,0
+Object loaded   6518181280x720 Samsung 992418,00 0,0
+Object loaded   4276061280x720Panasonic 681783,00 0,0
+Object loaded   6209121280x720Panasonic 913783,00 0,0
+Object loaded    207561920x1080 Samsung 901849,00 0,0
+Object loaded   1755881920x1080 Samsung 632725,00 0,0
+Object loaded   2340851920x1080    Sony 975251,00 0,0
+Object loaded   7618181280x721    Sony 233087,00 0,0
+Object loaded   2730191280x721      HP  43543,00 0,0
+Object loaded    674691920x1080 Samsung 128487,00 0,0
+Object loaded   8110541920x1080Panasonic  41063,00 0,0
+Object loaded   7874701920x1080Panasonic 859856,00 0,0
+Object loaded   7883821280x722 Samsung 350013,00 0,0
+Object loaded   3890251280x722 Samsung 555759,00 0,0
+Object loaded   7849451920x1080    Sony  40028,00 0,0
+Object loaded   9316721920x1080    Sony 679692,00 0,0
+Object loaded   5487571920x1080      HP 890536,00 0,0
+Object loaded   4020661280x723Panasonic 314555,00 0,0
+Object loaded   7142491280x723 Samsung 190345,00 0,0
+Object loaded   6855251920x1080    Sony 744248,00 0,0
+Object loaded   4803711920x1080    Sony 712444,00 0,0
+Object loaded     18711920x1080      HP 545377,00 0,0
+Object loaded    781641280x720 Samsung 512888,00 0,0
+Object loaded   4960571280x720    Sony 951978,00 0,0
+Object loaded   7395851920x1080    Sony 693437,00 0,0
+Object loaded   3870151920x1080      HP 221570,00 0,0
+Object loaded   7837131920x1080 Samsung 753217,00 0,0
+Object loaded   1614801280x721Panasonic 881652,00 0,0
+Object loaded   5164141920x1081Panasonic 650290,00 0,0
+Object loaded   3519131280x721 Samsung 889412,00 0,0
+Object loaded   2515291920x1080    Sony  19887,00 0,0
+Object loaded   3858831920x1080    Sony 635406,00 0,0
+Object loaded   7152411280x721Panasonic 204791,00 0,0
+Object loaded   3431291920x1080 Samsung  70468,00 0,0
+Object loaded   9032141920x1080    Sony 205557,00 0,0
+Object loaded   5391511280x720    Sony 362116,00 0,0
+Object loaded   5880951280x720Panasonic 154104,00 0,0
+Object loaded    815851280x720 Samsung 187355,00 0,0
+displays.csv successfully parsed. Got 139 items
+Object loaded   1ООО "Рамки и Экраны"Полесье, ул. Колхозная, д. 2"
+Object loaded   2ИП Несмотри В. З.Замоскворечье, ул. Неизвестная, д. 404"
+Object loaded   3ОАО "Как же хорошо"Счастье, ул. Веселая, д. 37"
+vendors.csv successfully parsed. Got 4 items
+Object loaded   1933054, Курская область, город Можайск, наб. Славы, 05
+Object loaded   2261530, Иркутская область, город Люберцы, шоссе Сталина, 96
+Object loaded   3194703, Белгородская область, город Наро-Фоминск, въезд Космонавтов, 36
+Object loaded   4261015, Волгоградская область, город Коломна, бульвар Ленина, 54
+Object loaded   5283475, Владимирская область, город Егорьевск, пер. Ленина, 80
+Object loaded   6207578, Курганская область, город Луховицы, въезд Будапештсткая, 58
+Object loaded   7474700, Архангельская область, город Сергиев Посад, наб. Гагарина, 97
+Object loaded   8812556, Тюменская область, город Талдом, шоссе Ломоносова, 39
+storages.csv successfully parsed. Got 9 items
+Object loaded   2792891280x720 Samsung 686652,00 0,0
+Object loaded   1289081280x720    Sony 962231,00 0,0
+Object loaded   1544011920x1080    Sony 502012,00 0,0
+Object loaded   7986311920x1080      HP 967303,00 0,0
+Object loaded   2326031920x1080 Samsung  23547,00 0,0
+Object loaded   3741231280x720Panasonic 934741,00 0,0
+Object loaded   5641831920x1080Panasonic 345908,00 0,0
+Object loaded   4281991280x720 Samsung 534481,00 0,0
+Object loaded   2028701920x1080    Sony 152363,00 0,0
+Object loaded   5480231920x1080    Sony 164509,00 0,0
+Object loaded   3898321280x720Panasonic 384573,00 0,0
+Object loaded   6547541920x1080 Samsung 851939,00 0,0
+Object loaded   3689461920x1080    Sony 404081,00 0,0
+Object loaded    582041280x720    Sony 791807,00 0,0
+Object loaded   1373081280x720Panasonic 309885,00 0,0
+Object loaded   7315371280x720 Samsung 541562,00 0,0
+Object loaded   1683951280x720    Sony 758390,00 0,0
+Object loaded    519851920x1080    Sony 250866,00 0,0
+Object loaded   1840311920x1081Panasonic 854778,00 0,0
+Object loaded   4706971920x1080 Samsung 903472,00 0,0
+Object loaded   6384661280x720    Sony 747140,00 0,0
+Object loaded   2802501280x720    Sony 767105,00 0,0
+Object loaded   5971601280x720    Sony 315600,00 0,0
+Object loaded   1400381280x720    Sony 398288,00 0,0
+Object loaded   9188311280x720      HP 679607,00 0,0
+Object loaded   1110201280x720 Samsung 977290,00 0,0
+Object loaded   9968451280x720Panasonic  66759,00 0,0
+Object loaded   2214251280x720Panasonic 320138,00 0,0
+Object loaded    909591280x720 Samsung 390007,00 0,0
+Object loaded   6285861920x1080    Sony 589204,00 0,0
+Object loaded   4288441920x1080    Sony 661321,00 0,0
+Object loaded   1195031920x1081      HP 158882,00 0,0
+Object loaded   6158461280x720 Samsung 285474,00 0,0
+Object loaded   3799941280x720Panasonic 221569,00 0,0
+Object loaded   4384281280x720Panasonic 697243,00 0,0
+Object loaded   3009981920x1080 Samsung 485612,00 0,0
+Object loaded   2500291920x1080 Samsung 243164,00 0,0
+Object loaded   7379111920x1080    Sony 863145,00 0,0
+Object loaded   7962801280x721    Sony 245032,00 0,0
+Object loaded    176991280x721      HP 257394,00 0,0
+Object loaded   4692071920x1080 Samsung 313218,00 0,0
+Object loaded    373741920x1080Panasonic 291935,00 0,0
+Object loaded   6171621920x1080Panasonic 648943,00 0,0
+Object loaded   7203151280x722 Samsung 305646,00 0,0
+Object loaded   1094611280x722 Samsung 725076,00 0,0
+Object loaded   6136451920x1080    Sony 491382,00 0,0
+Object loaded   9333621920x1080    Sony 660234,00 0,0
+Object loaded   5057981920x1080      HP  52239,00 0,0
+Object loaded   1479741280x723Panasonic  23044,00 0,0
+Object loaded   6193791280x723 Samsung 805281,00 0,0
+Object loaded   1375351920x1080    Sony 362672,00 0,0
+Object loaded   4572631920x1080    Sony 658676,00 0,0
+Object loaded   2883381920x1080      HP 258063,00 0,0
+Object loaded    315391280x720 Samsung  96898,00 0,0
+Object loaded    932821280x720    Sony 792174,00 0,0
+Object loaded   5335361920x1080    Sony 446188,00 0,0
+Object loaded   2898991920x1080      HP 741335,00 0,0
+Object loaded   5719571920x1080 Samsung  70442,00 0,0
+Object loaded   1268921280x721Panasonic 439426,00 0,0
+Object loaded   7444371920x1081Panasonic 803676,00 0,0
+Object loaded   7863271280x721 Samsung 346870,00 0,0
+Object loaded   3601881920x1080    Sony 509593,00 0,0
+Object loaded   5599351920x1080    Sony 556413,00 0,0
+Object loaded   7082661280x721Panasonic 935728,00 0,0
+Object loaded   6754381920x1080 Samsung 744020,00 0,0
+Object loaded   9932551920x1080    Sony 563285,00 0,0
+Object loaded   9199571280x720    Sony 949964,00 0,0
+Object loaded   3295641280x720Panasonic 369820,00 0,0
+Object loaded    305201280x720 Samsung 852726,00 0,0
+Object loaded   4041241280x720 Samsung 870809,00 0,0
+Object loaded   4752901280x720    Sony 368400,00 0,0
+Object loaded   2580551920x1080    Sony 753733,00 0,0
+Object loaded   8827831920x1080      HP 422975,00 0,0
+Object loaded   2892381920x1080 Samsung 733790,00 0,0
+Object loaded   2800461280x720Panasonic 429010,00 0,0
+Object loaded   9938111920x1080Panasonic 807095,00 0,0
+Object loaded   1552531280x720 Samsung 630885,00 0,0
+Object loaded   1151241920x1080    Sony 424845,00 0,0
+Object loaded   4866591920x1080    Sony 374289,00 0,0
+Object loaded   9889851280x720Panasonic 563326,00 0,0
+Object loaded   4903151920x1080 Samsung 288373,00 0,0
+Object loaded   7151121920x1080    Sony 640806,00 0,0
+Object loaded   2858571280x720    Sony 215376,00 0,0
+Object loaded   8631171280x720Panasonic 405000,00 0,0
+Object loaded   7062991280x720 Samsung 706913,00 0,0
+Object loaded   2694031280x720    Sony 812840,00 0,0
+Object loaded   4677511920x1080    Sony  36613,00 0,0
+Object loaded   8968071920x1081Panasonic 690850,00 0,0
+Object loaded   1428911920x1080 Samsung 502970,00 0,0
+Object loaded    252001280x720    Sony 805490,00 0,0
+Object loaded   2627661280x720    Sony  61612,00 0,0
+Object loaded   2977111280x720    Sony 199089,00 0,0
+Object loaded   2108461280x720    Sony 985852,00 0,0
+Object loaded   4583521280x720      HP 875383,00 0,0
+Object loaded   8174221280x720 Samsung 147752,00 0,0
+Object loaded   3431151280x720Panasonic  93003,00 0,0
+Object loaded    483631280x720Panasonic 666860,00 0,0
+Object loaded   7039411280x720 Samsung 438433,00 0,0
+Object loaded   3875141920x1080    Sony 511548,00 0,0
+Object loaded   3949791920x1080    Sony 198873,00 0,0
+Object loaded   3046671920x1081      HP 965957,00 0,0
+Object loaded   9904541280x720 Samsung 573916,00 0,0
+Object loaded    900351280x720Panasonic 917235,00 0,0
+Object loaded   9561861280x720Panasonic 328150,00 0,0
+Object loaded   7207471920x1080 Samsung 744968,00 0,0
+Object loaded   5006591920x1080 Samsung 889195,00 0,0
+Object loaded   8452101920x1080    Sony 132920,00 0,0
+Object loaded   3908181280x721    Sony 530957,00 0,0
+Object loaded   3578781280x721      HP 298733,00 0,0
+Object loaded   5520651920x1080 Samsung 585035,00 0,0
+Object loaded   9613251920x1080Panasonic 337649,00 0,0
+Object loaded   6666511920x1080Panasonic 471401,00 0,0
+Object loaded    364331280x722 Samsung 407512,00 0,0
+Object loaded   2407561280x722 Samsung 303361,00 0,0
+Object loaded   6675391920x1080    Sony 678764,00 0,0
+Object loaded   4946571920x1080    Sony  16883,00 0,0
+Object loaded   7907111920x1080      HP 985358,00 0,0
+Object loaded   7246951280x723Panasonic 917062,00 0,0
+Object loaded   7836851280x723 Samsung 117034,00 0,0
+Object loaded   5381431920x1080    Sony 633602,00 0,0
+Object loaded   9198591920x1080    Sony 905180,00 0,0
+Object loaded   1359961920x1080      HP 939908,00 0,0
+Object loaded   6310961280x720 Samsung 902112,00 0,0
+Object loaded   9432791280x720    Sony 278672,00 0,0
+Object loaded   5206851920x1080    Sony 366672,00 0,0
+Object loaded   7064501920x1080      HP 768987,00 0,0
+Object loaded   2347701920x1080 Samsung 127995,00 0,0
+Object loaded   3030901280x721Panasonic 605876,00 0,0
+Object loaded   2250381920x1081Panasonic 833312,00 0,0
+Object loaded    665231280x721 Samsung 957062,00 0,0
+Object loaded   8447441920x1080    Sony 482402,00 0,0
+Object loaded   3086191920x1080    Sony  46845,00 0,0
+Object loaded   2325981280x721Panasonic 859213,00 0,0
+Object loaded   8352961920x1080 Samsung 128140,00 0,0
+Object loaded   8133321920x1080    Sony 985056,00 0,0
+Object loaded   7637991280x720    Sony  97633,00 0,0
+Object loaded   6293631280x720Panasonic  40680,00 0,0
+Object loaded   5572851280x720 Samsung 836172,00 0,0
+displays.csv successfully parsed. Got 139 items
+Object loaded   1ООО "Рамки и Экраны"Полесье, ул. Колхозная, д. 2"
+Object loaded   2ИП Несмотри В. З.Замоскворечье, ул. Неизвестная, д. 404"
+Object loaded   3ОАО "Как же хорошо"Счастье, ул. Веселая, д. 37"
+vendors.csv successfully parsed. Got 4 items
+Object loaded   1933054, Курская область, город Можайск, наб. Славы, 05
+Object loaded   2261530, Иркутская область, город Люберцы, шоссе Сталина, 96
+Object loaded   3194703, Белгородская область, город Наро-Фоминск, въезд Космонавтов, 36
+Object loaded   4261015, Волгоградская область, город Коломна, бульвар Ленина, 54
+Object loaded   5283475, Владимирская область, город Егорьевск, пер. Ленина, 80
+Object loaded   6207578, Курганская область, город Луховицы, въезд Будапештсткая, 58
+Object loaded   7474700, Архангельская область, город Сергиев Посад, наб. Гагарина, 97
+Object loaded   8812556, Тюменская область, город Талдом, шоссе Ломоносова, 39
+storages.csv successfully parsed. Got 9 items
+Object loaded     279289 1280x720  Samsung  686652,00  0,0
+Object loaded     128908 1280x720     Sony  962231,00  0,0
+Object loaded     154401 1920x1080     Sony  502012,00  0,0
+Object loaded     798631 1920x1080       HP  967303,00  0,0
+Object loaded     232603 1920x1080  Samsung   23547,00  0,0
+Object loaded     374123 1280x720 Panasonic  934741,00  0,0
+Object loaded     564183 1920x1080 Panasonic  345908,00  0,0
+Object loaded     428199 1280x720  Samsung  534481,00  0,0
+Object loaded     202870 1920x1080     Sony  152363,00  0,0
+Object loaded     548023 1920x1080     Sony  164509,00  0,0
+Object loaded     389832 1280x720 Panasonic  384573,00  0,0
+Object loaded     654754 1920x1080  Samsung  851939,00  0,0
+Object loaded     368946 1920x1080     Sony  404081,00  0,0
+Object loaded      58204 1280x720     Sony  791807,00  0,0
+Object loaded     137308 1280x720 Panasonic  309885,00  0,0
+Object loaded     731537 1280x720  Samsung  541562,00  0,0
+Object loaded     168395 1280x720     Sony  758390,00  0,0
+Object loaded      51985 1920x1080     Sony  250866,00  0,0
+Object loaded     184031 1920x1081 Panasonic  854778,00  0,0
+Object loaded     470697 1920x1080  Samsung  903472,00  0,0
+Object loaded     638466 1280x720     Sony  747140,00  0,0
+Object loaded     280250 1280x720     Sony  767105,00  0,0
+Object loaded     597160 1280x720     Sony  315600,00  0,0
+Object loaded     140038 1280x720     Sony  398288,00  0,0
+Object loaded     918831 1280x720       HP  679607,00  0,0
+Object loaded     111020 1280x720  Samsung  977290,00  0,0
+Object loaded     996845 1280x720 Panasonic   66759,00  0,0
+Object loaded     221425 1280x720 Panasonic  320138,00  0,0
+Object loaded      90959 1280x720  Samsung  390007,00  0,0
+Object loaded     628586 1920x1080     Sony  589204,00  0,0
+Object loaded     428844 1920x1080     Sony  661321,00  0,0
+Object loaded     119503 1920x1081       HP  158882,00  0,0
+Object loaded     615846 1280x720  Samsung  285474,00  0,0
+Object loaded     379994 1280x720 Panasonic  221569,00  0,0
+Object loaded     438428 1280x720 Panasonic  697243,00  0,0
+Object loaded     300998 1920x1080  Samsung  485612,00  0,0
+Object loaded     250029 1920x1080  Samsung  243164,00  0,0
+Object loaded     737911 1920x1080     Sony  863145,00  0,0
+Object loaded     796280 1280x721     Sony  245032,00  0,0
+Object loaded      17699 1280x721       HP  257394,00  0,0
+Object loaded     469207 1920x1080  Samsung  313218,00  0,0
+Object loaded      37374 1920x1080 Panasonic  291935,00  0,0
+Object loaded     617162 1920x1080 Panasonic  648943,00  0,0
+Object loaded     720315 1280x722  Samsung  305646,00  0,0
+Object loaded     109461 1280x722  Samsung  725076,00  0,0
+Object loaded     613645 1920x1080     Sony  491382,00  0,0
+Object loaded     933362 1920x1080     Sony  660234,00  0,0
+Object loaded     505798 1920x1080       HP   52239,00  0,0
+Object loaded     147974 1280x723 Panasonic   23044,00  0,0
+Object loaded     619379 1280x723  Samsung  805281,00  0,0
+Object loaded     137535 1920x1080     Sony  362672,00  0,0
+Object loaded     457263 1920x1080     Sony  658676,00  0,0
+Object loaded     288338 1920x1080       HP  258063,00  0,0
+Object loaded      31539 1280x720  Samsung   96898,00  0,0
+Object loaded      93282 1280x720     Sony  792174,00  0,0
+Object loaded     533536 1920x1080     Sony  446188,00  0,0
+Object loaded     289899 1920x1080       HP  741335,00  0,0
+Object loaded     571957 1920x1080  Samsung   70442,00  0,0
+Object loaded     126892 1280x721 Panasonic  439426,00  0,0
+Object loaded     744437 1920x1081 Panasonic  803676,00  0,0
+Object loaded     786327 1280x721  Samsung  346870,00  0,0
+Object loaded     360188 1920x1080     Sony  509593,00  0,0
+Object loaded     559935 1920x1080     Sony  556413,00  0,0
+Object loaded     708266 1280x721 Panasonic  935728,00  0,0
+Object loaded     675438 1920x1080  Samsung  744020,00  0,0
+Object loaded     993255 1920x1080     Sony  563285,00  0,0
+Object loaded     919957 1280x720     Sony  949964,00  0,0
+Object loaded     329564 1280x720 Panasonic  369820,00  0,0
+Object loaded      30520 1280x720  Samsung  852726,00  0,0
+Object loaded     404124 1280x720  Samsung  870809,00  0,0
+Object loaded     475290 1280x720     Sony  368400,00  0,0
+Object loaded     258055 1920x1080     Sony  753733,00  0,0
+Object loaded     882783 1920x1080       HP  422975,00  0,0
+Object loaded     289238 1920x1080  Samsung  733790,00  0,0
+Object loaded     280046 1280x720 Panasonic  429010,00  0,0
+Object loaded     993811 1920x1080 Panasonic  807095,00  0,0
+Object loaded     155253 1280x720  Samsung  630885,00  0,0
+Object loaded     115124 1920x1080     Sony  424845,00  0,0
+Object loaded     486659 1920x1080     Sony  374289,00  0,0
+Object loaded     988985 1280x720 Panasonic  563326,00  0,0
+Object loaded     490315 1920x1080  Samsung  288373,00  0,0
+Object loaded     715112 1920x1080     Sony  640806,00  0,0
+Object loaded     285857 1280x720     Sony  215376,00  0,0
+Object loaded     863117 1280x720 Panasonic  405000,00  0,0
+Object loaded     706299 1280x720  Samsung  706913,00  0,0
+Object loaded     269403 1280x720     Sony  812840,00  0,0
+Object loaded     467751 1920x1080     Sony   36613,00  0,0
+Object loaded     896807 1920x1081 Panasonic  690850,00  0,0
+Object loaded     142891 1920x1080  Samsung  502970,00  0,0
+Object loaded      25200 1280x720     Sony  805490,00  0,0
+Object loaded     262766 1280x720     Sony   61612,00  0,0
+Object loaded     297711 1280x720     Sony  199089,00  0,0
+Object loaded     210846 1280x720     Sony  985852,00  0,0
+Object loaded     458352 1280x720       HP  875383,00  0,0
+Object loaded     817422 1280x720  Samsung  147752,00  0,0
+Object loaded     343115 1280x720 Panasonic   93003,00  0,0
+Object loaded      48363 1280x720 Panasonic  666860,00  0,0
+Object loaded     703941 1280x720  Samsung  438433,00  0,0
+Object loaded     387514 1920x1080     Sony  511548,00  0,0
+Object loaded     394979 1920x1080     Sony  198873,00  0,0
+Object loaded     304667 1920x1081       HP  965957,00  0,0
+Object loaded     990454 1280x720  Samsung  573916,00  0,0
+Object loaded      90035 1280x720 Panasonic  917235,00  0,0
+Object loaded     956186 1280x720 Panasonic  328150,00  0,0
+Object loaded     720747 1920x1080  Samsung  744968,00  0,0
+Object loaded     500659 1920x1080  Samsung  889195,00  0,0
+Object loaded     845210 1920x1080     Sony  132920,00  0,0
+Object loaded     390818 1280x721     Sony  530957,00  0,0
+Object loaded     357878 1280x721       HP  298733,00  0,0
+Object loaded     552065 1920x1080  Samsung  585035,00  0,0
+Object loaded     961325 1920x1080 Panasonic  337649,00  0,0
+Object loaded     666651 1920x1080 Panasonic  471401,00  0,0
+Object loaded      36433 1280x722  Samsung  407512,00  0,0
+Object loaded     240756 1280x722  Samsung  303361,00  0,0
+Object loaded     667539 1920x1080     Sony  678764,00  0,0
+Object loaded     494657 1920x1080     Sony   16883,00  0,0
+Object loaded     790711 1920x1080       HP  985358,00  0,0
+Object loaded     724695 1280x723 Panasonic  917062,00  0,0
+Object loaded     783685 1280x723  Samsung  117034,00  0,0
+Object loaded     538143 1920x1080     Sony  633602,00  0,0
+Object loaded     919859 1920x1080     Sony  905180,00  0,0
+Object loaded     135996 1920x1080       HP  939908,00  0,0
+Object loaded     631096 1280x720  Samsung  902112,00  0,0
+Object loaded     943279 1280x720     Sony  278672,00  0,0
+Object loaded     520685 1920x1080     Sony  366672,00  0,0
+Object loaded     706450 1920x1080       HP  768987,00  0,0
+Object loaded     234770 1920x1080  Samsung  127995,00  0,0
+Object loaded     303090 1280x721 Panasonic  605876,00  0,0
+Object loaded     225038 1920x1081 Panasonic  833312,00  0,0
+Object loaded      66523 1280x721  Samsung  957062,00  0,0
+Object loaded     844744 1920x1080     Sony  482402,00  0,0
+Object loaded     308619 1920x1080     Sony   46845,00  0,0
+Object loaded     232598 1280x721 Panasonic  859213,00  0,0
+Object loaded     835296 1920x1080  Samsung  128140,00  0,0
+Object loaded     813332 1920x1080     Sony  985056,00  0,0
+Object loaded     763799 1280x720     Sony   97633,00  0,0
+Object loaded     629363 1280x720 Panasonic   40680,00  0,0
+Object loaded     557285 1280x720  Samsung  836172,00  0,0
+displays.csv successfully parsed. Got 139 items
+Object loaded   1"ООО "Электросила"Курганская область, город Чехов, проезд 1905 года
+Object loaded   2ИП Негодяев З. А.Ивановская область, город Луховицы, въезд Космонавтов
+Object loaded   3 "ОАО "Альбина"Ярославская область, город Раменское, въезд Славы
+vendors.csv successfully parsed. Got 4 items
+Object loaded   1Самарская область, город Чехов, пл. Ломоносова, 32
+Object loaded   2Волгоградская область, город Видное, въезд Гагарина, 96
+Object loaded   3Московская область, город Одинцово, пл. Ленина, 92
+Object loaded   4Ульяновская область, город Дмитров, наб. Чехова, 35
+Object loaded   5Архангельская область, город Одинцово, ул. Ладыгина, 32
+Object loaded   6Вологодская область, город Пушкино, ул. Ленина, 5
+Object loaded   7Сахалинская область, город Люберцы, пер. Гоголя, 82
+Object loaded   8Амурская область, город Мытищи, проезд Чехова, 86
+storages.csv successfully parsed. Got 9 items
+Object loaded     279289 1280x720  Samsung  686652,00  0,0
+Object loaded     128908 1280x720     Sony  962231,00  0,0
+Object loaded     154401 1920x1080     Sony  502012,00  0,0
+Object loaded     798631 1920x1080       HP  967303,00  0,0
+Object loaded     232603 1920x1080  Samsung   23547,00  0,0
+Object loaded     374123 1280x720 Panasonic  934741,00  0,0
+Object loaded     564183 1920x1080 Panasonic  345908,00  0,0
+Object loaded     428199 1280x720  Samsung  534481,00  0,0
+Object loaded     202870 1920x1080     Sony  152363,00  0,0
+Object loaded     548023 1920x1080     Sony  164509,00  0,0
+Object loaded     389832 1280x720 Panasonic  384573,00  0,0
+Object loaded     654754 1920x1080  Samsung  851939,00  0,0
+Object loaded     368946 1920x1080     Sony  404081,00  0,0
+Object loaded      58204 1280x720     Sony  791807,00  0,0
+Object loaded     137308 1280x720 Panasonic  309885,00  0,0
+Object loaded     731537 1280x720  Samsung  541562,00  0,0
+Object loaded     168395 1280x720     Sony  758390,00  0,0
+Object loaded      51985 1920x1080     Sony  250866,00  0,0
+Object loaded     184031 1920x1081 Panasonic  854778,00  0,0
+Object loaded     470697 1920x1080  Samsung  903472,00  0,0
+Object loaded     638466 1280x720     Sony  747140,00  0,0
+Object loaded     280250 1280x720     Sony  767105,00  0,0
+Object loaded     597160 1280x720     Sony  315600,00  0,0
+Object loaded     140038 1280x720     Sony  398288,00  0,0
+Object loaded     918831 1280x720       HP  679607,00  0,0
+Object loaded     111020 1280x720  Samsung  977290,00  0,0
+Object loaded     996845 1280x720 Panasonic   66759,00  0,0
+Object loaded     221425 1280x720 Panasonic  320138,00  0,0
+Object loaded      90959 1280x720  Samsung  390007,00  0,0
+Object loaded     628586 1920x1080     Sony  589204,00  0,0
+Object loaded     428844 1920x1080     Sony  661321,00  0,0
+Object loaded     119503 1920x1081       HP  158882,00  0,0
+Object loaded     615846 1280x720  Samsung  285474,00  0,0
+Object loaded     379994 1280x720 Panasonic  221569,00  0,0
+Object loaded     438428 1280x720 Panasonic  697243,00  0,0
+Object loaded     300998 1920x1080  Samsung  485612,00  0,0
+Object loaded     250029 1920x1080  Samsung  243164,00  0,0
+Object loaded     737911 1920x1080     Sony  863145,00  0,0
+Object loaded     796280 1280x721     Sony  245032,00  0,0
+Object loaded      17699 1280x721       HP  257394,00  0,0
+Object loaded     469207 1920x1080  Samsung  313218,00  0,0
+Object loaded      37374 1920x1080 Panasonic  291935,00  0,0
+Object loaded     617162 1920x1080 Panasonic  648943,00  0,0
+Object loaded     720315 1280x722  Samsung  305646,00  0,0
+Object loaded     109461 1280x722  Samsung  725076,00  0,0
+Object loaded     613645 1920x1080     Sony  491382,00  0,0
+Object loaded     933362 1920x1080     Sony  660234,00  0,0
+Object loaded     505798 1920x1080       HP   52239,00  0,0
+Object loaded     147974 1280x723 Panasonic   23044,00  0,0
+Object loaded     619379 1280x723  Samsung  805281,00  0,0
+Object loaded     137535 1920x1080     Sony  362672,00  0,0
+Object loaded     457263 1920x1080     Sony  658676,00  0,0
+Object loaded     288338 1920x1080       HP  258063,00  0,0
+Object loaded      31539 1280x720  Samsung   96898,00  0,0
+Object loaded      93282 1280x720     Sony  792174,00  0,0
+Object loaded     533536 1920x1080     Sony  446188,00  0,0
+Object loaded     289899 1920x1080       HP  741335,00  0,0
+Object loaded     571957 1920x1080  Samsung   70442,00  0,0
+Object loaded     126892 1280x721 Panasonic  439426,00  0,0
+Object loaded     744437 1920x1081 Panasonic  803676,00  0,0
+Object loaded     786327 1280x721  Samsung  346870,00  0,0
+Object loaded     360188 1920x1080     Sony  509593,00  0,0
+Object loaded     559935 1920x1080     Sony  556413,00  0,0
+Object loaded     708266 1280x721 Panasonic  935728,00  0,0
+Object loaded     675438 1920x1080  Samsung  744020,00  0,0
+Object loaded     993255 1920x1080     Sony  563285,00  0,0
+Object loaded     919957 1280x720     Sony  949964,00  0,0
+Object loaded     329564 1280x720 Panasonic  369820,00  0,0
+Object loaded      30520 1280x720  Samsung  852726,00  0,0
+Object loaded     404124 1280x720  Samsung  870809,00  0,0
+Object loaded     475290 1280x720     Sony  368400,00  0,0
+Object loaded     258055 1920x1080     Sony  753733,00  0,0
+Object loaded     882783 1920x1080       HP  422975,00  0,0
+Object loaded     289238 1920x1080  Samsung  733790,00  0,0
+Object loaded     280046 1280x720 Panasonic  429010,00  0,0
+Object loaded     993811 1920x1080 Panasonic  807095,00  0,0
+Object loaded     155253 1280x720  Samsung  630885,00  0,0
+Object loaded     115124 1920x1080     Sony  424845,00  0,0
+Object loaded     486659 1920x1080     Sony  374289,00  0,0
+Object loaded     988985 1280x720 Panasonic  563326,00  0,0
+Object loaded     490315 1920x1080  Samsung  288373,00  0,0
+Object loaded     715112 1920x1080     Sony  640806,00  0,0
+Object loaded     285857 1280x720     Sony  215376,00  0,0
+Object loaded     863117 1280x720 Panasonic  405000,00  0,0
+Object loaded     706299 1280x720  Samsung  706913,00  0,0
+Object loaded     269403 1280x720     Sony  812840,00  0,0
+Object loaded     467751 1920x1080     Sony   36613,00  0,0
+Object loaded     896807 1920x1081 Panasonic  690850,00  0,0
+Object loaded     142891 1920x1080  Samsung  502970,00  0,0
+Object loaded      25200 1280x720     Sony  805490,00  0,0
+Object loaded     262766 1280x720     Sony   61612,00  0,0
+Object loaded     297711 1280x720     Sony  199089,00  0,0
+Object loaded     210846 1280x720     Sony  985852,00  0,0
+Object loaded     458352 1280x720       HP  875383,00  0,0
+Object loaded     817422 1280x720  Samsung  147752,00  0,0
+Object loaded     343115 1280x720 Panasonic   93003,00  0,0
+Object loaded      48363 1280x720 Panasonic  666860,00  0,0
+Object loaded     703941 1280x720  Samsung  438433,00  0,0
+Object loaded     387514 1920x1080     Sony  511548,00  0,0
+Object loaded     394979 1920x1080     Sony  198873,00  0,0
+Object loaded     304667 1920x1081       HP  965957,00  0,0
+Object loaded     990454 1280x720  Samsung  573916,00  0,0
+Object loaded      90035 1280x720 Panasonic  917235,00  0,0
+Object loaded     956186 1280x720 Panasonic  328150,00  0,0
+Object loaded     720747 1920x1080  Samsung  744968,00  0,0
+Object loaded     500659 1920x1080  Samsung  889195,00  0,0
+Object loaded     845210 1920x1080     Sony  132920,00  0,0
+Object loaded     390818 1280x721     Sony  530957,00  0,0
+Object loaded     357878 1280x721       HP  298733,00  0,0
+Object loaded     552065 1920x1080  Samsung  585035,00  0,0
+Object loaded     961325 1920x1080 Panasonic  337649,00  0,0
+Object loaded     666651 1920x1080 Panasonic  471401,00  0,0
+Object loaded      36433 1280x722  Samsung  407512,00  0,0
+Object loaded     240756 1280x722  Samsung  303361,00  0,0
+Object loaded     667539 1920x1080     Sony  678764,00  0,0
+Object loaded     494657 1920x1080     Sony   16883,00  0,0
+Object loaded     790711 1920x1080       HP  985358,00  0,0
+Object loaded     724695 1280x723 Panasonic  917062,00  0,0
+Object loaded     783685 1280x723  Samsung  117034,00  0,0
+Object loaded     538143 1920x1080     Sony  633602,00  0,0
+Object loaded     919859 1920x1080     Sony  905180,00  0,0
+Object loaded     135996 1920x1080       HP  939908,00  0,0
+Object loaded     631096 1280x720  Samsung  902112,00  0,0
+Object loaded     943279 1280x720     Sony  278672,00  0,0
+Object loaded     520685 1920x1080     Sony  366672,00  0,0
+Object loaded     706450 1920x1080       HP  768987,00  0,0
+Object loaded     234770 1920x1080  Samsung  127995,00  0,0
+Object loaded     303090 1280x721 Panasonic  605876,00  0,0
+Object loaded     225038 1920x1081 Panasonic  833312,00  0,0
+Object loaded      66523 1280x721  Samsung  957062,00  0,0
+Object loaded     844744 1920x1080     Sony  482402,00  0,0
+Object loaded     308619 1920x1080     Sony   46845,00  0,0
+Object loaded     232598 1280x721 Panasonic  859213,00  0,0
+Object loaded     835296 1920x1080  Samsung  128140,00  0,0
+Object loaded     813332 1920x1080     Sony  985056,00  0,0
+Object loaded     763799 1280x720     Sony   97633,00  0,0
+Object loaded     629363 1280x720 Panasonic   40680,00  0,0
+Object loaded     557285 1280x720  Samsung  836172,00  0,0
+displays.csv successfully parsed. Got 139 items
+Object loaded   1"ООО "Электросила"Курганская область, город Чехов, проезд 1905 года
+Object loaded   2ИП Негодяев З. А.Ивановская область, город Луховицы, въезд Космонавтов
+Object loaded   3 "ОАО "Альбина"Ярославская область, город Раменское, въезд Славы
+vendors.csv successfully parsed. Got 4 items
+Object loaded   1Самарская область, город Чехов, пл. Ломоносова, 32
+Object loaded   2Волгоградская область, город Видное, въезд Гагарина, 96
+Object loaded   3Московская область, город Одинцово, пл. Ленина, 92
+Object loaded   4Ульяновская область, город Дмитров, наб. Чехова, 35
+Object loaded   5Архангельская область, город Одинцово, ул. Ладыгина, 32
+Object loaded   6Вологодская область, город Пушкино, ул. Ленина, 5
+Object loaded   7Сахалинская область, город Люберцы, пер. Гоголя, 82
+Object loaded   8Амурская область, город Мытищи, проезд Чехова, 86
+storages.csv successfully parsed. Got 9 items
+Object loaded     279289 1280x720  Samsung  686652,00  0,0
+Object loaded     128908 1280x720     Sony  962231,00  0,0
+Object loaded     154401 1920x1080     Sony  502012,00  0,0
+Object loaded     798631 1920x1080       HP  967303,00  0,0
+Object loaded     232603 1920x1080  Samsung   23547,00  0,0
+Object loaded     374123 1280x720 Panasonic  934741,00  0,0
+Object loaded     564183 1920x1080 Panasonic  345908,00  0,0
+Object loaded     428199 1280x720  Samsung  534481,00  0,0
+Object loaded     202870 1920x1080     Sony  152363,00  0,0
+Object loaded     548023 1920x1080     Sony  164509,00  0,0
+Object loaded     389832 1280x720 Panasonic  384573,00  0,0
+Object loaded     654754 1920x1080  Samsung  851939,00  0,0
+Object loaded     368946 1920x1080     Sony  404081,00  0,0
+Object loaded      58204 1280x720     Sony  791807,00  0,0
+Object loaded     137308 1280x720 Panasonic  309885,00  0,0
+Object loaded     731537 1280x720  Samsung  541562,00  0,0
+Object loaded     168395 1280x720     Sony  758390,00  0,0
+Object loaded      51985 1920x1080     Sony  250866,00  0,0
+Object loaded     184031 1920x1081 Panasonic  854778,00  0,0
+Object loaded     470697 1920x1080  Samsung  903472,00  0,0
+Object loaded     638466 1280x720     Sony  747140,00  0,0
+Object loaded     280250 1280x720     Sony  767105,00  0,0
+Object loaded     597160 1280x720     Sony  315600,00  0,0
+Object loaded     140038 1280x720     Sony  398288,00  0,0
+Object loaded     918831 1280x720       HP  679607,00  0,0
+Object loaded     111020 1280x720  Samsung  977290,00  0,0
+Object loaded     996845 1280x720 Panasonic   66759,00  0,0
+Object loaded     221425 1280x720 Panasonic  320138,00  0,0
+Object loaded      90959 1280x720  Samsung  390007,00  0,0
+Object loaded     628586 1920x1080     Sony  589204,00  0,0
+Object loaded     428844 1920x1080     Sony  661321,00  0,0
+Object loaded     119503 1920x1081       HP  158882,00  0,0
+Object loaded     615846 1280x720  Samsung  285474,00  0,0
+Object loaded     379994 1280x720 Panasonic  221569,00  0,0
+Object loaded     438428 1280x720 Panasonic  697243,00  0,0
+Object loaded     300998 1920x1080  Samsung  485612,00  0,0
+Object loaded     250029 1920x1080  Samsung  243164,00  0,0
+Object loaded     737911 1920x1080     Sony  863145,00  0,0
+Object loaded     796280 1280x721     Sony  245032,00  0,0
+Object loaded      17699 1280x721       HP  257394,00  0,0
+Object loaded     469207 1920x1080  Samsung  313218,00  0,0
+Object loaded      37374 1920x1080 Panasonic  291935,00  0,0
+Object loaded     617162 1920x1080 Panasonic  648943,00  0,0
+Object loaded     720315 1280x722  Samsung  305646,00  0,0
+Object loaded     109461 1280x722  Samsung  725076,00  0,0
+Object loaded     613645 1920x1080     Sony  491382,00  0,0
+Object loaded     933362 1920x1080     Sony  660234,00  0,0
+Object loaded     505798 1920x1080       HP   52239,00  0,0
+Object loaded     147974 1280x723 Panasonic   23044,00  0,0
+Object loaded     619379 1280x723  Samsung  805281,00  0,0
+Object loaded     137535 1920x1080     Sony  362672,00  0,0
+Object loaded     457263 1920x1080     Sony  658676,00  0,0
+Object loaded     288338 1920x1080       HP  258063,00  0,0
+Object loaded      31539 1280x720  Samsung   96898,00  0,0
+Object loaded      93282 1280x720     Sony  792174,00  0,0
+Object loaded     533536 1920x1080     Sony  446188,00  0,0
+Object loaded     289899 1920x1080       HP  741335,00  0,0
+Object loaded     571957 1920x1080  Samsung   70442,00  0,0
+Object loaded     126892 1280x721 Panasonic  439426,00  0,0
+Object loaded     744437 1920x1081 Panasonic  803676,00  0,0
+Object loaded     786327 1280x721  Samsung  346870,00  0,0
+Object loaded     360188 1920x1080     Sony  509593,00  0,0
+Object loaded     559935 1920x1080     Sony  556413,00  0,0
+Object loaded     708266 1280x721 Panasonic  935728,00  0,0
+Object loaded     675438 1920x1080  Samsung  744020,00  0,0
+Object loaded     993255 1920x1080     Sony  563285,00  0,0
+Object loaded     919957 1280x720     Sony  949964,00  0,0
+Object loaded     329564 1280x720 Panasonic  369820,00  0,0
+Object loaded      30520 1280x720  Samsung  852726,00  0,0
+Object loaded     404124 1280x720  Samsung  870809,00  0,0
+Object loaded     475290 1280x720     Sony  368400,00  0,0
+Object loaded     258055 1920x1080     Sony  753733,00  0,0
+Object loaded     882783 1920x1080       HP  422975,00  0,0
+Object loaded     289238 1920x1080  Samsung  733790,00  0,0
+Object loaded     280046 1280x720 Panasonic  429010,00  0,0
+Object loaded     993811 1920x1080 Panasonic  807095,00  0,0
+Object loaded     155253 1280x720  Samsung  630885,00  0,0
+Object loaded     115124 1920x1080     Sony  424845,00  0,0
+Object loaded     486659 1920x1080     Sony  374289,00  0,0
+Object loaded     988985 1280x720 Panasonic  563326,00  0,0
+Object loaded     490315 1920x1080  Samsung  288373,00  0,0
+Object loaded     715112 1920x1080     Sony  640806,00  0,0
+Object loaded     285857 1280x720     Sony  215376,00  0,0
+Object loaded     863117 1280x720 Panasonic  405000,00  0,0
+Object loaded     706299 1280x720  Samsung  706913,00  0,0
+Object loaded     269403 1280x720     Sony  812840,00  0,0
+Object loaded     467751 1920x1080     Sony   36613,00  0,0
+Object loaded     896807 1920x1081 Panasonic  690850,00  0,0
+Object loaded     142891 1920x1080  Samsung  502970,00  0,0
+Object loaded      25200 1280x720     Sony  805490,00  0,0
+Object loaded     262766 1280x720     Sony   61612,00  0,0
+Object loaded     297711 1280x720     Sony  199089,00  0,0
+Object loaded     210846 1280x720     Sony  985852,00  0,0
+Object loaded     458352 1280x720       HP  875383,00  0,0
+Object loaded     817422 1280x720  Samsung  147752,00  0,0
+Object loaded     343115 1280x720 Panasonic   93003,00  0,0
+Object loaded      48363 1280x720 Panasonic  666860,00  0,0
+Object loaded     703941 1280x720  Samsung  438433,00  0,0
+Object loaded     387514 1920x1080     Sony  511548,00  0,0
+Object loaded     394979 1920x1080     Sony  198873,00  0,0
+Object loaded     304667 1920x1081       HP  965957,00  0,0
+Object loaded     990454 1280x720  Samsung  573916,00  0,0
+Object loaded      90035 1280x720 Panasonic  917235,00  0,0
+Object loaded     956186 1280x720 Panasonic  328150,00  0,0
+Object loaded     720747 1920x1080  Samsung  744968,00  0,0
+Object loaded     500659 1920x1080  Samsung  889195,00  0,0
+Object loaded     845210 1920x1080     Sony  132920,00  0,0
+Object loaded     390818 1280x721     Sony  530957,00  0,0
+Object loaded     357878 1280x721       HP  298733,00  0,0
+Object loaded     552065 1920x1080  Samsung  585035,00  0,0
+Object loaded     961325 1920x1080 Panasonic  337649,00  0,0
+Object loaded     666651 1920x1080 Panasonic  471401,00  0,0
+Object loaded      36433 1280x722  Samsung  407512,00  0,0
+Object loaded     240756 1280x722  Samsung  303361,00  0,0
+Object loaded     667539 1920x1080     Sony  678764,00  0,0
+Object loaded     494657 1920x1080     Sony   16883,00  0,0
+Object loaded     790711 1920x1080       HP  985358,00  0,0
+Object loaded     724695 1280x723 Panasonic  917062,00  0,0
+Object loaded     783685 1280x723  Samsung  117034,00  0,0
+Object loaded     538143 1920x1080     Sony  633602,00  0,0
+Object loaded     919859 1920x1080     Sony  905180,00  0,0
+Object loaded     135996 1920x1080       HP  939908,00  0,0
+Object loaded     631096 1280x720  Samsung  902112,00  0,0
+Object loaded     943279 1280x720     Sony  278672,00  0,0
+Object loaded     520685 1920x1080     Sony  366672,00  0,0
+Object loaded     706450 1920x1080       HP  768987,00  0,0
+Object loaded     234770 1920x1080  Samsung  127995,00  0,0
+Object loaded     303090 1280x721 Panasonic  605876,00  0,0
+Object loaded     225038 1920x1081 Panasonic  833312,00  0,0
+Object loaded      66523 1280x721  Samsung  957062,00  0,0
+Object loaded     844744 1920x1080     Sony  482402,00  0,0
+Object loaded     308619 1920x1080     Sony   46845,00  0,0
+Object loaded     232598 1280x721 Panasonic  859213,00  0,0
+Object loaded     835296 1920x1080  Samsung  128140,00  0,0
+Object loaded     813332 1920x1080     Sony  985056,00  0,0
+Object loaded     763799 1280x720     Sony   97633,00  0,0
+Object loaded     629363 1280x720 Panasonic   40680,00  0,0
+Object loaded     557285 1280x720  Samsung  836172,00  0,0
+displays.csv successfully parsed. Got 139 items
